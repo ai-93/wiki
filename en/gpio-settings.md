@@ -222,3 +222,9 @@ Tested on GK7205V300 for /dev/ttyАМА1:
 | Processor   | IRCUT1 | IRCUT2 | IRSTATUS     | DEVICE ID     |
 |-------------|--------|--------|--------------|---------------|
 | Hi3518Ev200 | 61     | 60     | 1 (inverted) | ZG2622MW      |
+
+### Goscom / smitch
+
+| Processor   | IRCUT1 | IRCUT2 | IRSTATUS | IRLED    | WIFI  |  AUDIO_POW  |  DEVICE ID    |
+|-------------|--------|--------|----------|----------|-------|-------|-------|
+| Hi3518Ev300         |      |      |         |        |  40   |   55(inverted)  |   t5810hct-m02  |
